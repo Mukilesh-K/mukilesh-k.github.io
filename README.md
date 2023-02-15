@@ -2,9 +2,9 @@
     Valentine's Wish
 </h1>
 
-#### [See it Live](https://govindcodes.github.io/ValentineWish/)
+#### [See it Live](https://mukilesh-k.github.io/Valentine-s-Wish/)
 
-## Make your own version :computer:
+## Make your own version 
 
 * Fork the repository
 * Open `customize.json` and replace name/wish-message/image with your own
